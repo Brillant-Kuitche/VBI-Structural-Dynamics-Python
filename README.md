@@ -25,4 +25,4 @@ This repository is dedicated strictly to computational scripts and numerical met
 [Download Visual Portfolio (PDF)](https://github.com/Brillant-Kuitche/Structural-Engineering-Portfolio/raw/main/Brillant_Kuitche_Portfolio.pdf)
 
 ---
-*Author: Patrice Brillant Kuitche Mbe*
+*Patrice Brillant Kuitche Mbe*
