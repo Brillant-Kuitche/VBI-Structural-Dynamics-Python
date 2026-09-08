@@ -20,7 +20,7 @@ Note: Inline comments within the scripts are written in French to detail the cal
 
 ## Visual Portfolio
 
-This repository is dedicated strictly to computational scripts and numerical methods. For a visual overview of my practical civil engineering projects—including automated Eurocode Excel sheets, structural modeling (Robot Structural Analysis, SAP2000), and BIM (ArchiCAD)—please refer to my complete portfolio document below.
+This repository is dedicated strictly to computational scripts and numerical methods. For a visual overview of my practical civil engineering projects-including automated Eurocode Excel sheets, structural modeling (Robot Structural Analysis, SAP2000), and BIM (ArchiCAD)-please refer to my complete portfolio document below.
 
 [Download Visual Portfolio (PDF)](https://github.com/Brillant-Kuitche/Structural-Engineering-Portfolio/raw/main/Brillant_Kuitche_Portfolio.pdf)
 
