@@ -5,18 +5,18 @@ Note: Inline comments within the scripts are written in French to detail the cal
 
 ## Repository Structure
 
-* `VBI 1D beam.py` (Root directory)
+* `VBI 1D Beam.py` (Root directory)
   Main script modeling the dynamic vehicle-bridge interaction. It evaluates the dynamic response of a bridge deck modeled as a 1D beam under standard moving traffic loads (Fascicule 61).
 
 * `/01_Influence_Lines`
   Scripts for evaluating bridge load distribution and generating influence lines:
-  - `influence Line for a 3 Span beam.py`: (Computes influence lines for continuous multi-span beams).
-  - `LI longitudinales PSI_DP.py`
-  - `LI transversale PSI_DP.py` (Implementation of the Guyon-Massonnet-Bareš method for transverse load distribution).
+  - `Influence line for a 03 span beam.py`: (Computes influence lines for continuous multi-span beams).
+  - `LI Longitudinale PSI_DP.py`
+  - `LI Transversales PSI_DP.py` (Implementation of the Guyon-Massonnet-Bareš method for transverse load distribution).
 
 * `/02_Finite_Element_Method`
   Numerical solvers for structural mechanics:
-  - `FEM for column with variable cross section.py` (Assembles elementary stiffness matrices and computes the global structural response for column with varying inertia).
+  - `FEM for column with variable cross-section.py` (Assembles elementary stiffness matrices and computes the global structural response for column with varying inertia).
 
 ## Visual Portfolio
 
